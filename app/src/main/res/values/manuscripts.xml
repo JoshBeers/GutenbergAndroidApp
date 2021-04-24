@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="manuscripts">
+        <item>taleoftwocities.txt</item>
+        <item>waroftheworlds.txt</item>
+        <item>warandpeace.txt</item>
+    </string-array>
+
+</resources>
